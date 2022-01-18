@@ -1,10 +1,20 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 
-function BookItem() {
+function BookItem({ book }) {
   return (
 
     <li>
-      Book
+      <span>
+        {' '}
+        {book.name}
+        {' '}
+      </span>
+      <span>
+        {' '}
+        {book.author}
+        {' '}
+      </span>
       <button type="button">Delete</button>
     </li>
 

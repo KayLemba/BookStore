@@ -5,6 +5,7 @@ function BookAdd() {
     <>
       <h2>ADD NEW BOOK</h2>
       <input type="text" placeholder="Book Title .." />
+      <input type="text" placeholder="Book Author .." />
       <form action="#">
         <select id="books" name="books">
           <option value="Fiction">Fiction</option>

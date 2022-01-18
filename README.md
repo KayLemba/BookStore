@@ -1,75 +1,70 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Book Store
 
-# Project Name
+The Bookstore is a website similar to the "Awesome Books" website but this time its been built with React. 
+The app will enable us do the following tasks:
 
-> One paragraph statement about the project.
+ - Display a list of books.
+ - Add a book.
+ - Remove a selected book.
 
-![screenshot](./app_screenshot.png)
+![screenshot]( Coming soon !)
 
-Additional description about the project and its features.
+## live Demo [click here](Coming soon)
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- ReactJS
+- Css
+- HTML
+- JavaScript
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
+```bash
+git git@github.com:KayLemba/bookstore.git
+cd ./bookstore-1
+```
+
 ### Install
 
-### Usage
+```bash
+npm install
+```
 
-### Run tests
+### To Run it
 
-### Deployment
+```bash
+npm start
+```
 
+### Build
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+```bash
+npm run build
+```
+## Author
+👤 **Kalolo Chola Lemba**
+- GitHub: [@KayLemba](https://github.com/KayLemba)
+- Twitter: [@King-Kaylo1](https://twitter.com/King_Kaylo1) 
+- LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/kalolo-lemba-41a8339a/-41a8339a/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! ❤️ ❤️ ❤️ 
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 

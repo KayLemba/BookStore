@@ -5,13 +5,15 @@
   width: 100%;
   height: 89px;
   background-color: white;
+  border-bottom: solid 1px rgb(214, 214, 214);
+  border-radius: 4px;
   font-family: 'Montserrat', sans-serif;
   font-size: 0.813rem;
   letter-spacing: 1.9px;
 }
 
 .website-logo {
-  margin: 15px 0;
+  margin-left: -33px;
   color: #0290ff;
   font-size: 1.875rem;
   font-weight: bold;

@@ -1,3 +1,7 @@
+:root {
+  --font-family-primary: 'Montserrat', sans-serif;
+}
+
 form {
   margin-top: 20px;
   border-top: 1px solid rgb(214, 214, 214);
@@ -11,7 +15,7 @@ form {
 }
 
 .add-span {
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-family-primary);
   font-size: 1.2rem;
   font-weight: 800;
   letter-spacing: -0.18px;
@@ -19,7 +23,7 @@ form {
 }
 
 .input {
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-family-primary);
   width: 30%;
   height: 1.75rem;
   border-radius: 4px;
@@ -35,7 +39,7 @@ form {
 }
 
 .selector {
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--font-family-primary);
   height: 2.1rem;
   border-radius: 4px;
   background-color: #fff;

@@ -6,9 +6,13 @@
   font-family: 'Roboto Slab', serif;
   justify-content: space-between;
   align-items: center;
-  border-top: solid 1px rgb(214, 214, 214);
-  margin-bottom: 5px;
+  border: solid 1px rgb(214, 214, 214);
+  border-radius: 4px;
+  margin-left: -41px;
+  margin-top: 10px;
+  height: 7rem;
   padding: 10px 5%;
+  background-color: #fff;
 }
 
 .general-info {
